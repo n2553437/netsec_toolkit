@@ -3,8 +3,6 @@
 NetSec Toolkit - Comprehensive Network Security Suite
 Integrates Packet Analysis, Vulnerability Scanning, and Security Testing
 
-Coded By: Infinity_sec (Nir_____)
-Version: 2.0
 
 WARNING: Only use on systems you own or have explicit written permission to test.
 Unauthorized use is illegal and may violate laws including CFAA.
